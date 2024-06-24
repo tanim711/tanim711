@@ -28,9 +28,6 @@ Skills:   BOOTSTRAP / REACT / JS / HTML / CSS
 <p align="center">
 <a href="https://fb.com/tanim9160567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanim711" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tanim75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanim711" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCttZMJCI9L9PbfJkQw7o-0Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Learn With Tutul" height="30" width="40" /></a>
-
-
 </p>
 
 ## Use To Code
