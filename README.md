@@ -1,4 +1,4 @@
-![I am harun181](https://github.com/harun181/harun181/blob/main/code.png)
+![I am tanim711 ](https://github.com/harun181/harun181/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm Tanim Ahmad</h1>
 <h3 align="center">Programmer |  Frontend Web Developer | Wordpres Web Developer | Speed Learner | Dgital Marketer</h3>
@@ -30,7 +30,7 @@ Skills:   BOOTSTRAP / REACT / JS / HTML / CSS
 
 <p align="center">
 <a href="https://fb.com/tanim9160567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
-<a href="https://wa.me/8801839150802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
+<a href="https://wa.me/8801839150802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/(https://www.svgrepo.com/show/505086/whatsapp-business.svg)" alt="tutul181" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tanim75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harun181" height="30" width="40" /></a>
 <a href="https://codepen.io/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="harun181" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCttZMJCI9L9PbfJkQw7o-0Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Learn With Tutul" height="30" width="40" /></a>
